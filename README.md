@@ -1,2 +1,16 @@
-# Museum_Dashboard_Project
-Capstone project with the Ann Arbor Hands-On Museum. Built three dashboards (attendance, membership, and donors) to analyze data and support decision making.
+# Ann Arbor Hands-On Museum Dashboard Project
+
+This project focuses on building interactive dashboards to analyze attendance and membership data.
+
+## Tools Used
+- Python (pandas)
+- SQL
+- Apache Superset
+
+## What I Did
+- Cleaned and analyzed datasets
+- Built visualizations for decision-making
+- Created dashboards to track attendance trends
+
+## Files
+- dashboard_screenshots.pdf
