@@ -1,5 +1,5 @@
-# Capstone I & II (Fall & Winter 2026)
 # Ann Arbor Hands-On Museum Dashboard Project (Client)
+# Capstone I & II (Fall & Winter 2026)
 
 This project focuses on building interactive dashboards to analyze attendance and membership data.
 
