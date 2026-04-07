@@ -11,6 +11,7 @@ This project focuses on building interactive dashboards to analyze attendance an
 - Cleaned and analyzed datasets
 - Built visualizations for decision-making
 - Created dashboards to track attendance trends
+- Creates poster for UMSI exposition (April 2026)
 
 ## Files
 - dashboard_screenshots.pdf
